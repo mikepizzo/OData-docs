@@ -26,7 +26,7 @@ The follow table represents the state of implementation of the above mentioned s
 | Default Namespaces. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652484)                                                  |N|N|
 | Schema Versioning. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652485)                                                   |N|N|
 | Headers EntityId and Isolation without OData- prefix. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652486)                |N|N|
-| Preference omit-values. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652487)                                              |Y|N|
+| Preference omit-values. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652487)                                              |N|N|
 | Response Header AsyncResult. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652488)                                         |N|N|
 | System Query Option $compute. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652491)                                        |Y|N|
 | Indexing into Ordered Collections and Positional Insert. [Spec](https://docs.oasis-open.org/odata/new-in-odata/v4.01/cn02/new-in-odata-v4.01-cn02.html#_Toc495652536)             |N|N|
